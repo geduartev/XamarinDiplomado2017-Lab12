@@ -10,4 +10,6 @@
 + Objetos View y ViewGroup
 + Objetos estructurados (layouts)
 + Controles de interfaz de usuario (widgets)
-+ Diálogos, notificacionesy menús.
++ Diálogos
++ Notificaciones
++ Menús.
